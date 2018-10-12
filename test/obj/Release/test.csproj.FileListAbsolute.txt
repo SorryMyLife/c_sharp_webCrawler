@@ -1,0 +1,10 @@
+E:\vs-works\test\test\test\bin\Release\test.exe.config
+E:\vs-works\test\test\test\bin\Release\test.exe.manifest
+E:\vs-works\test\test\test\bin\Release\test.application
+E:\vs-works\test\test\test\bin\Release\test.exe
+E:\vs-works\test\test\test\bin\Release\test.pdb
+E:\vs-works\test\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+E:\vs-works\test\test\test\obj\Release\test.exe.manifest
+E:\vs-works\test\test\test\obj\Release\test.application
+E:\vs-works\test\test\test\obj\Release\test.exe
+E:\vs-works\test\test\test\obj\Release\test.pdb
